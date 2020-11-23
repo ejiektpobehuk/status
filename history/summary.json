@@ -20,7 +20,7 @@
     "url": "$DC_B",
     "slug": "data-center-b",
     "status": "down",
-    "uptime": "14.57%",
+    "uptime": "8.29%",
     "time": 0
   },
   {
@@ -28,7 +28,7 @@
     "url": "$DC_V",
     "slug": "data-center-v",
     "status": "down",
-    "uptime": "4.72%",
+    "uptime": "2.44%",
     "time": 0
   }
 ]
