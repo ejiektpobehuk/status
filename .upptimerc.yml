@@ -8,6 +8,10 @@ sites:
     url: https://ejiek.com
   - name: Repository
     url: https://repo.ejiek.com
+  - name: Data Center B
+    url: $DC_B
+  - name: Data Center V
+    url: $DC_V
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
