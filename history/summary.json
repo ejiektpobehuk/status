@@ -19,9 +19,9 @@
     "name": "Data Center B",
     "url": "$SECRET_SITE_1",
     "slug": "data-center-b",
-    "status": "down",
-    "uptime": "58.53%",
-    "time": 346
+    "status": "up",
+    "uptime": "35.58%",
+    "time": 437
   },
   {
     "name": "Data Center V",
