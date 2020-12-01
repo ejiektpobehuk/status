@@ -4,7 +4,7 @@
     "url": "https://ejiek.com",
     "slug": "ejiek-com",
     "status": "up",
-    "uptime": "94.86%",
+    "uptime": "95.27%",
     "time": 820
   },
   {
@@ -12,23 +12,23 @@
     "url": "https://repo.ejiek.com",
     "slug": "repository",
     "status": "up",
-    "uptime": "95.22%",
+    "uptime": "95.61%",
     "time": 568
   },
   {
     "name": "Data Center B",
     "url": "$SECRET_SITE_1",
     "slug": "data-center-b",
-    "status": "up",
-    "uptime": "79.23%",
-    "time": 629
+    "status": "down",
+    "uptime": "80.92%",
+    "time": 587
   },
   {
     "name": "Data Center V",
     "url": "$SECRET_SITE_2",
     "slug": "data-center-v",
     "status": "up",
-    "uptime": "93.18%",
+    "uptime": "93.74%",
     "time": 871
   }
 ]
