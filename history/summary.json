@@ -4,31 +4,63 @@
     "url": "https://ejiek.com",
     "slug": "ejiek-com",
     "status": "up",
-    "uptime": "95.64%",
-    "time": 827
+    "uptime": "95.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "94.75%",
+    "uptimeMonth": "95.98%",
+    "uptimeYear": "95.98%",
+    "time": 1167,
+    "timeDay": 1004,
+    "timeWeek": 911,
+    "timeMonth": 1167,
+    "timeYear": 1167
   },
   {
     "name": "Repository",
     "url": "https://repo.ejiek.com",
     "slug": "repository",
     "status": "up",
-    "uptime": "95.95%",
-    "time": 578
+    "uptime": "96.26%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.12%",
+    "uptimeMonth": "96.26%",
+    "uptimeYear": "96.26%",
+    "time": 874,
+    "timeDay": 1004,
+    "timeWeek": 864,
+    "timeMonth": 874,
+    "timeYear": 874
   },
   {
     "name": "Data Center B",
     "url": "$SECRET_SITE_1",
     "slug": "data-center-b",
     "status": "up",
-    "uptime": "82.26%",
-    "time": 620
+    "uptime": "83.65%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.76%",
+    "uptimeMonth": "83.65%",
+    "uptimeYear": "83.65%",
+    "time": 884,
+    "timeDay": 944,
+    "timeWeek": 884,
+    "timeMonth": 884,
+    "timeYear": 884
   },
   {
     "name": "Data Center V",
     "url": "$SECRET_SITE_2",
     "slug": "data-center-v",
     "status": "up",
-    "uptime": "93.88%",
-    "time": 815
+    "uptime": "94.36%",
+    "uptimeDay": "97.14%",
+    "uptimeWeek": "92.64%",
+    "uptimeMonth": "94.36%",
+    "uptimeYear": "94.36%",
+    "time": 1094,
+    "timeDay": 875,
+    "timeWeek": 1168,
+    "timeMonth": 1094,
+    "timeYear": 1094
   }
 ]
