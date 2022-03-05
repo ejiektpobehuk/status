@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.32%",
-    "time": 907,
-    "timeDay": 292,
-    "timeWeek": 388,
-    "timeMonth": 375,
-    "timeYear": 817,
+    "time": 906,
+    "timeDay": 398,
+    "timeWeek": 390,
+    "timeMonth": 378,
+    "timeYear": 816,
     "dailyMinutesDown": {
       "2021-11-04": 789,
       "2021-11-03": 1440,
@@ -38,18 +38,19 @@
     "icon": "https://favicons.githubusercontent.com/repo.ejiek.com",
     "slug": "repository",
     "status": "down",
-    "uptime": "72.91%",
+    "uptime": "72.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "65.58%",
-    "time": 1140,
+    "uptimeYear": "65.31%",
+    "time": 1141,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1021,
+    "timeYear": 1002,
     "dailyMinutesDown": {
-      "2022-03-04": 70,
+      "2022-03-05": 64,
+      "2022-03-04": 1440,
       "2022-03-03": 1440,
       "2022-03-02": 1440,
       "2022-03-01": 1440,
@@ -191,7 +192,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "data-center-b",
     "status": "down",
-    "uptime": "68.27%",
+    "uptime": "68.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -202,7 +203,8 @@
     "timeMonth": 0,
     "timeYear": 775,
     "dailyMinutesDown": {
-      "2022-03-04": 70,
+      "2022-03-05": 64,
+      "2022-03-04": 1440,
       "2022-03-03": 1440,
       "2022-03-02": 1440,
       "2022-03-01": 1440,
@@ -345,8 +347,7 @@
       "2021-03-09": 1440,
       "2021-03-08": 1440,
       "2021-03-07": 1440,
-      "2021-03-06": 1440,
-      "2021-03-05": 1440
+      "2021-03-06": 1440
     }
   },
   {
@@ -355,7 +356,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "data-center-v",
     "status": "down",
-    "uptime": "16.72%",
+    "uptime": "16.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -366,7 +367,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-04": 70,
+      "2022-03-05": 64,
+      "2022-03-04": 1440,
       "2022-03-03": 1440,
       "2022-03-02": 1440,
       "2022-03-01": 1440,
@@ -729,8 +731,7 @@
       "2021-03-09": 1440,
       "2021-03-08": 1440,
       "2021-03-07": 1440,
-      "2021-03-06": 1440,
-      "2021-03-05": 1440
+      "2021-03-06": 1440
     }
   }
 ]
