@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/ejiek.com",
     "slug": "ejiek-com",
     "status": "up",
-    "uptime": "98.59%",
+    "uptime": "98.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.32%",
-    "time": 906,
-    "timeDay": 398,
-    "timeWeek": 390,
-    "timeMonth": 378,
-    "timeYear": 816,
+    "time": 904,
+    "timeDay": 329,
+    "timeWeek": 361,
+    "timeMonth": 379,
+    "timeYear": 815,
     "dailyMinutesDown": {
       "2021-11-04": 789,
       "2021-11-03": 1440,
@@ -38,18 +38,19 @@
     "icon": "https://favicons.githubusercontent.com/repo.ejiek.com",
     "slug": "repository",
     "status": "down",
-    "uptime": "72.75%",
+    "uptime": "72.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "65.31%",
-    "time": 1141,
+    "uptimeYear": "65.03%",
+    "time": 1142,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1002,
+    "timeYear": 1004,
     "dailyMinutesDown": {
-      "2022-03-05": 64,
+      "2022-03-06": 63,
+      "2022-03-05": 1440,
       "2022-03-04": 1440,
       "2022-03-03": 1440,
       "2022-03-02": 1440,
@@ -192,7 +193,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "data-center-b",
     "status": "down",
-    "uptime": "68.12%",
+    "uptime": "67.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -203,7 +204,8 @@
     "timeMonth": 0,
     "timeYear": 775,
     "dailyMinutesDown": {
-      "2022-03-05": 64,
+      "2022-03-06": 63,
+      "2022-03-05": 1440,
       "2022-03-04": 1440,
       "2022-03-03": 1440,
       "2022-03-02": 1440,
@@ -346,8 +348,7 @@
       "2021-03-10": 1440,
       "2021-03-09": 1440,
       "2021-03-08": 1440,
-      "2021-03-07": 1440,
-      "2021-03-06": 1440
+      "2021-03-07": 1440
     }
   },
   {
@@ -356,7 +357,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "data-center-v",
     "status": "down",
-    "uptime": "16.69%",
+    "uptime": "16.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -367,7 +368,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-05": 64,
+      "2022-03-06": 63,
+      "2022-03-05": 1440,
       "2022-03-04": 1440,
       "2022-03-03": 1440,
       "2022-03-02": 1440,
@@ -730,8 +732,7 @@
       "2021-03-10": 1440,
       "2021-03-09": 1440,
       "2021-03-08": 1440,
-      "2021-03-07": 1440,
-      "2021-03-06": 1440
+      "2021-03-07": 1440
     }
   }
 ]
