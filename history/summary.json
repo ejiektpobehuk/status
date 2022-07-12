@@ -11,9 +11,9 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "98.43%",
     "time": 574,
-    "timeDay": 643,
-    "timeWeek": 475,
-    "timeMonth": 376,
+    "timeDay": 504,
+    "timeWeek": 496,
+    "timeMonth": 379,
     "timeYear": 521,
     "dailyMinutesDown": {
       "2022-07-02": 21,
@@ -29,8 +29,7 @@
       "2021-07-21": 328,
       "2021-07-20": 202,
       "2021-07-14": 398,
-      "2021-07-13": 1440,
-      "2021-07-12": 632
+      "2021-07-13": 1440
     }
   },
   {
@@ -39,18 +38,19 @@
     "icon": "https://favicons.githubusercontent.com/repo.ejiek.com",
     "slug": "repository",
     "status": "down",
-    "uptime": "57.08%",
+    "uptime": "56.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "30.35%",
+    "uptimeYear": "30.08%",
     "time": 807,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 835,
     "dailyMinutesDown": {
-      "2022-07-11": 105,
+      "2022-07-12": 110,
+      "2022-07-11": 1440,
       "2022-07-10": 1440,
       "2022-07-09": 1440,
       "2022-07-08": 1440,
@@ -309,8 +309,7 @@
       "2021-07-21": 328,
       "2021-07-20": 202,
       "2021-07-14": 398,
-      "2021-07-13": 1440,
-      "2021-07-12": 631
+      "2021-07-13": 1440
     }
   },
   {
@@ -319,18 +318,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "data-center-b",
     "status": "down",
-    "uptime": "53.44%",
+    "uptime": "53.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "30.35%",
+    "uptimeYear": "30.08%",
     "time": 775,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 789,
     "dailyMinutesDown": {
-      "2022-07-11": 105,
+      "2022-07-12": 110,
+      "2022-07-11": 1440,
       "2022-07-10": 1440,
       "2022-07-09": 1440,
       "2022-07-08": 1440,
@@ -589,8 +589,7 @@
       "2021-07-21": 328,
       "2021-07-20": 202,
       "2021-07-14": 398,
-      "2021-07-13": 1440,
-      "2021-07-12": 631
+      "2021-07-13": 1440
     }
   },
   {
@@ -599,18 +598,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "data-center-v",
     "status": "down",
-    "uptime": "13.09%",
+    "uptime": "13.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 699,
+    "time": 713,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-11": 105,
+      "2022-07-12": 110,
+      "2022-07-11": 1440,
       "2022-07-10": 1440,
       "2022-07-09": 1440,
       "2022-07-08": 1440,
@@ -973,8 +973,7 @@
       "2021-07-16": 1440,
       "2021-07-15": 1440,
       "2021-07-14": 1440,
-      "2021-07-13": 1440,
-      "2021-07-12": 1440
+      "2021-07-13": 1440
     }
   }
 ]
