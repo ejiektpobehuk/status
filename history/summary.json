@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 481,
-    "timeDay": 324,
-    "timeWeek": 350,
-    "timeMonth": 561,
+    "timeDay": 456,
+    "timeWeek": 373,
+    "timeMonth": 559,
     "timeYear": 406,
     "dailyMinutesDown": {
       "2022-07-02": 21,
@@ -27,18 +27,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/repo.ejiek.com.ico",
     "slug": "repository",
     "status": "down",
-    "uptime": "46.38%",
+    "uptime": "46.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 842,
+    "time": 844,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-25": 80,
+      "2022-11-26": 77,
+      "2022-11-25": 1440,
       "2022-11-24": 1440,
       "2022-11-23": 1440,
       "2022-11-22": 1440,
@@ -401,8 +402,7 @@
       "2021-11-30": 1440,
       "2021-11-29": 1440,
       "2021-11-28": 1440,
-      "2021-11-27": 1440,
-      "2021-11-26": 1440
+      "2021-11-27": 1440
     }
   },
   {
@@ -411,18 +411,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "data-center-b",
     "status": "down",
-    "uptime": "43.43%",
+    "uptime": "43.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 791,
+    "time": 792,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-25": 80,
+      "2022-11-26": 77,
+      "2022-11-25": 1440,
       "2022-11-24": 1440,
       "2022-11-23": 1440,
       "2022-11-22": 1440,
@@ -785,8 +786,7 @@
       "2021-11-30": 1440,
       "2021-11-29": 1440,
       "2021-11-28": 1440,
-      "2021-11-27": 1440,
-      "2021-11-26": 1440
+      "2021-11-27": 1440
     }
   },
   {
@@ -795,7 +795,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "data-center-v",
     "status": "down",
-    "uptime": "10.64%",
+    "uptime": "10.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -806,7 +806,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-25": 80,
+      "2022-11-26": 77,
+      "2022-11-25": 1440,
       "2022-11-24": 1440,
       "2022-11-23": 1440,
       "2022-11-22": 1440,
@@ -1169,8 +1170,7 @@
       "2021-11-30": 1440,
       "2021-11-29": 1440,
       "2021-11-28": 1440,
-      "2021-11-27": 1440,
-      "2021-11-26": 1440
+      "2021-11-27": 1440
     }
   }
 ]
