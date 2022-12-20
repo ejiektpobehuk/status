@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ejiek.com.ico",
     "slug": "ejiek-com",
     "status": "up",
-    "uptime": "99.12%",
+    "uptime": "99.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 462,
-    "timeDay": 442,
-    "timeWeek": 436,
+    "time": 461,
+    "timeDay": 314,
+    "timeWeek": 413,
     "timeMonth": 407,
-    "timeYear": 408,
+    "timeYear": 407,
     "dailyMinutesDown": {
       "2022-07-02": 21,
       "2022-06-30": 37,
@@ -27,18 +27,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/repo.ejiek.com.ico",
     "slug": "repository",
     "status": "down",
-    "uptime": "44.91%",
+    "uptime": "44.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 845,
+    "time": 846,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-19": 69,
+      "2022-12-20": 73,
+      "2022-12-19": 1440,
       "2022-12-18": 1440,
       "2022-12-17": 1440,
       "2022-12-16": 1440,
@@ -401,8 +402,7 @@
       "2021-12-24": 1440,
       "2021-12-23": 1440,
       "2021-12-22": 1440,
-      "2021-12-21": 1440,
-      "2021-12-20": 1440
+      "2021-12-21": 1440
     }
   },
   {
@@ -411,18 +411,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "data-center-b",
     "status": "down",
-    "uptime": "42.05%",
+    "uptime": "41.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 799,
+    "time": 797,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-19": 69,
+      "2022-12-20": 73,
+      "2022-12-19": 1440,
       "2022-12-18": 1440,
       "2022-12-17": 1440,
       "2022-12-16": 1440,
@@ -785,8 +786,7 @@
       "2021-12-24": 1440,
       "2021-12-23": 1440,
       "2021-12-22": 1440,
-      "2021-12-21": 1440,
-      "2021-12-20": 1440
+      "2021-12-21": 1440
     }
   },
   {
@@ -795,7 +795,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "data-center-v",
     "status": "down",
-    "uptime": "10.30%",
+    "uptime": "10.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -806,7 +806,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-19": 69,
+      "2022-12-20": 73,
+      "2022-12-19": 1440,
       "2022-12-18": 1440,
       "2022-12-17": 1440,
       "2022-12-16": 1440,
@@ -1169,8 +1170,7 @@
       "2021-12-24": 1440,
       "2021-12-23": 1440,
       "2021-12-22": 1440,
-      "2021-12-21": 1440,
-      "2021-12-20": 1440
+      "2021-12-21": 1440
     }
   }
 ]
