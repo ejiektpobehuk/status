@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.26%",
     "uptimeYear": "99.92%",
-    "time": 406,
-    "timeDay": 522,
-    "timeWeek": 535,
-    "timeMonth": 481,
+    "time": 407,
+    "timeDay": 554,
+    "timeWeek": 537,
+    "timeMonth": 487,
     "timeYear": 416,
     "dailyMinutesDown": {
       "2023-02-10": 323,
@@ -28,18 +28,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/repo.ejiek.com.ico",
     "slug": "repository",
     "status": "down",
-    "uptime": "40.70%",
+    "uptime": "40.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 907,
+    "time": 931,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-07": 84,
+      "2023-03-08": 82,
+      "2023-03-07": 1440,
       "2023-03-06": 1440,
       "2023-03-05": 1440,
       "2023-03-04": 1440,
@@ -402,8 +403,7 @@
       "2022-03-12": 1440,
       "2022-03-11": 1440,
       "2022-03-10": 1440,
-      "2022-03-09": 1440,
-      "2022-03-08": 1440
+      "2022-03-09": 1440
     }
   },
   {
@@ -412,18 +412,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "data-center-b",
     "status": "down",
-    "uptime": "38.11%",
+    "uptime": "38.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 879,
+    "time": 904,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-07": 84,
+      "2023-03-08": 82,
+      "2023-03-07": 1440,
       "2023-03-06": 1440,
       "2023-03-05": 1440,
       "2023-03-04": 1440,
@@ -786,8 +787,7 @@
       "2022-03-12": 1440,
       "2022-03-11": 1440,
       "2022-03-10": 1440,
-      "2022-03-09": 1440,
-      "2022-03-08": 1440
+      "2022-03-09": 1440
     }
   },
   {
@@ -796,7 +796,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "data-center-v",
     "status": "down",
-    "uptime": "9.34%",
+    "uptime": "9.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -807,7 +807,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-07": 84,
+      "2023-03-08": 82,
+      "2023-03-07": 1440,
       "2023-03-06": 1440,
       "2023-03-05": 1440,
       "2023-03-04": 1440,
@@ -1170,8 +1171,7 @@
       "2022-03-12": 1440,
       "2022-03-11": 1440,
       "2022-03-10": 1440,
-      "2022-03-09": 1440,
-      "2022-03-08": 1440
+      "2022-03-09": 1440
     }
   }
 ]
