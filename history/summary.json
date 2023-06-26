@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ejiek.com.ico",
     "slug": "ejiek-com",
     "status": "up",
-    "uptime": "99.27%",
+    "uptime": "99.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 435,
-    "timeDay": 363,
-    "timeWeek": 432,
-    "timeMonth": 501,
-    "timeYear": 444,
+    "timeDay": 512,
+    "timeWeek": 450,
+    "timeMonth": 499,
+    "timeYear": 445,
     "dailyMinutesDown": {
       "2023-02-10": 323,
       "2022-07-02": 21,
@@ -27,7 +27,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/repo.ejiek.com.ico",
     "slug": "repository",
     "status": "down",
-    "uptime": "35.96%",
+    "uptime": "35.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -38,7 +38,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-25": 104,
+      "2023-06-26": 87,
+      "2023-06-25": 1440,
       "2023-06-24": 1440,
       "2023-06-23": 1440,
       "2023-06-22": 1440,
@@ -401,8 +402,7 @@
       "2022-06-30": 1440,
       "2022-06-29": 1440,
       "2022-06-28": 1440,
-      "2022-06-27": 1440,
-      "2022-06-26": 1440
+      "2022-06-27": 1440
     }
   },
   {
@@ -411,7 +411,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "data-center-b",
     "status": "down",
-    "uptime": "33.67%",
+    "uptime": "33.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -422,7 +422,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-25": 104,
+      "2023-06-26": 87,
+      "2023-06-25": 1440,
       "2023-06-24": 1440,
       "2023-06-23": 1440,
       "2023-06-22": 1440,
@@ -785,8 +786,7 @@
       "2022-06-30": 1440,
       "2022-06-29": 1440,
       "2022-06-28": 1440,
-      "2022-06-27": 1440,
-      "2022-06-26": 1440
+      "2022-06-27": 1440
     }
   },
   {
@@ -795,7 +795,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "data-center-v",
     "status": "down",
-    "uptime": "8.25%",
+    "uptime": "8.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -806,7 +806,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-25": 104,
+      "2023-06-26": 87,
+      "2023-06-25": 1440,
       "2023-06-24": 1440,
       "2023-06-23": 1440,
       "2023-06-22": 1440,
@@ -1169,8 +1170,7 @@
       "2022-06-30": 1440,
       "2022-06-29": 1440,
       "2022-06-28": 1440,
-      "2022-06-27": 1440,
-      "2022-06-26": 1440
+      "2022-06-27": 1440
     }
   }
 ]
