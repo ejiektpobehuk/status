@@ -4,14 +4,10 @@ repo: status # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: ejiek.com
-    url: https://ejiek.com
-  - name: Repository
-    url: https://repo.ejiek.com
-  - name: Data Center B
+  - name: ejiek.id
+    url: https://ejiek.id
+  - name: Secret Artist
     url: $SECRET_SITE_1
-  - name: Data Center V
-    url: $SECRET_SITE_2
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
