@@ -22,19 +22,19 @@
     "url": "$SECRET_SITE_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-artist",
-    "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "98.32%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 1866,
-    "timeDay": 1962,
-    "timeWeek": 1889,
-    "timeMonth": 1866,
-    "timeYear": 1866,
+    "status": "up",
+    "uptime": "99.64%",
+    "uptimeDay": "96.50%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.64%",
+    "time": 1871,
+    "timeDay": 1965,
+    "timeWeek": 1895,
+    "timeMonth": 1871,
+    "timeYear": 1871,
     "dailyMinutesDown": {
-      "2024-06-14": 24
+      "2024-06-14": 50
     }
   }
 ]
