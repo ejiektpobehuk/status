@@ -42,19 +42,19 @@
     "url": "$SECRET_SITE_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-upstream",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2108,
-    "timeDay": 1795,
-    "timeWeek": 2108,
-    "timeMonth": 2108,
-    "timeYear": 2108,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 2175,
+    "timeDay": 2118,
+    "timeWeek": 2175,
+    "timeMonth": 2175,
+    "timeYear": 2175,
     "dailyMinutesDown": {
-      "2024-06-16": 0
+      "2024-06-16": 4
     }
   }
 ]
