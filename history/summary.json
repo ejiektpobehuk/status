@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 173,
-    "timeDay": 201,
-    "timeWeek": 197,
-    "timeMonth": 176,
-    "timeYear": 173,
+    "time": 176,
+    "timeDay": 300,
+    "timeWeek": 208,
+    "timeMonth": 181,
+    "timeYear": 176,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-artist",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "99.90%",
-    "time": 1758,
-    "timeDay": 1636,
-    "timeWeek": 1410,
-    "timeMonth": 1745,
-    "timeYear": 1758,
+    "uptimeYear": "99.91%",
+    "time": 1748,
+    "timeDay": 1187,
+    "timeWeek": 1389,
+    "timeMonth": 1732,
+    "timeYear": 1748,
     "dailyMinutesDown": {
       "2024-06-14": 50
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2203,
-    "timeDay": 2279,
-    "timeWeek": 2163,
-    "timeMonth": 2203,
-    "timeYear": 2203,
+    "time": 2194,
+    "timeDay": 1914,
+    "timeWeek": 2079,
+    "timeMonth": 2194,
+    "timeYear": 2194,
     "dailyMinutesDown": {}
   }
 ]
