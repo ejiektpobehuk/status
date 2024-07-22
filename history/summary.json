@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 180,
-    "timeDay": 313,
-    "timeWeek": 202,
-    "timeMonth": 193,
-    "timeYear": 180,
+    "time": 182,
+    "timeDay": 273,
+    "timeWeek": 220,
+    "timeMonth": 195,
+    "timeYear": 182,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-artist",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
-    "time": 1671,
-    "timeDay": 1573,
-    "timeWeek": 1299,
-    "timeMonth": 1395,
-    "timeYear": 1671,
+    "uptimeYear": "99.93%",
+    "time": 1667,
+    "timeDay": 1375,
+    "timeWeek": 1286,
+    "timeMonth": 1387,
+    "timeYear": 1667,
     "dailyMinutesDown": {
       "2024-06-14": 50
     }
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2155,
-    "timeDay": 1774,
-    "timeWeek": 2084,
-    "timeMonth": 2080,
+    "timeDay": 2156,
+    "timeWeek": 2067,
+    "timeMonth": 2083,
     "timeYear": 2155,
     "dailyMinutesDown": {}
   }
