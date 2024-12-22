@@ -48,7 +48,7 @@
     "url": "$SECRET_SITE_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-upstream",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "91.17%",
     "uptimeWeek": "98.74%",
