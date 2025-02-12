@@ -4,10 +4,10 @@
     "url": "https://ejiek.id",
     "icon": "https://icons.duckduckgo.com/ip3/ejiek.id.ico",
     "slug": "ejiek-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 190,
@@ -15,16 +15,18 @@
     "timeWeek": 185,
     "timeMonth": 218,
     "timeYear": 190,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-12": 2
+    }
   },
   {
     "name": "Secret Artist",
     "url": "$SECRET_SITE_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-artist",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.28%",
     "uptimeYear": "99.66%",
@@ -34,6 +36,7 @@
     "timeMonth": 1364,
     "timeYear": 1482,
     "dailyMinutesDown": {
+      "2025-02-12": 0,
       "2025-01-15": 314,
       "2024-12-23": 68,
       "2024-12-22": 60,
